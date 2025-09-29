@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/p4/apriltag_ros" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/p4/bio_ik" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/p4/diagnostics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/p4/realsense-ros" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/p4/tf_transformations" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/p4/vision_opencv" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/p4/xarm_ros2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/p4/xarm_ros2/xarm_sdk/cxx" vcs="Git" />
+  </component>
+</project>
